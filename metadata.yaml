@@ -1,4 +1,8 @@
 _repo: Mein-Lied_47872
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47872-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosegger, Peter
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7090
     wikipedia: http://en.wikipedia.org/wiki/Peter_Rosegger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47872#Mein-Lied
 gutenberg_issued: '2015-01-04'
 gutenberg_type: Text
 identifiers:
